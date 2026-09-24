@@ -1,8 +1,11 @@
 from os import name
+w1 = input("a name: ")
+w2 = input("adjective: ")
+w3 = input("plural noun: ")
+w4 = input("plural noun: ")
+w5 = input("place: ")
+w6 = input("verb: ")
 
-w1= noun
-w2= adjetive
-w3= name
-w4= emotion
 
-print=f({w3} went to {w1}. im very {w4} that they went there because )
+print(f"\n captain {w1} strapped into the command chair of the USS {w2}.")
+
